@@ -9,3 +9,6 @@ Views
 
 
 Administration
+
+
+safe_sql_update
